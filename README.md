@@ -7,23 +7,26 @@ El objetivo de este proyecto es realizar un proceso completo de preparación, in
 El análisis busca identificar patrones relevantes en el comportamiento de los clientes y determinar qué factores pueden estar relacionados con la contratación del producto financiero ofertado.
 
 Estructura del proyecto
+
 Proyecto 4 EDA con Python/
+
 │
 ├── Raw Data/
 │   ├── bank-additional.csv
 │   └── customer-details.xlsx
-│
+│   
 │── Clean Data/
-│   ├── bank_clean.xlsx
-│   ├── clientes_clean.xlsx
-│   └── df_bank_clientes.xlsx
+│   ├── bank\_clean.xlsx
+│   ├── clientes\_clean.xlsx
+│   └── df\_bank\_clientes.xlsx
 │
 ├── Notebooks/
-│   └── EDA_Bank_Marketing.ipynb
+│   └── EDA\_Bank\_Marketing.ipynb
 │
 ├── README.md
 │
 └── Informe Proyecto 4 - Eda con Python.pdf
+
 
 
 Carpeta Raw Data: Incluye los archivos originales proporcionados para la realización del análisis.
