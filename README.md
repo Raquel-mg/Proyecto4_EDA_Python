@@ -8,20 +8,6 @@ El análisis busca identificar patrones relevantes en el comportamiento de los c
 
 Estructura del proyecto
 
-Proyecto 4 EDA con Python/
-├── Raw Data/
-    ├── bank-additional.csv
-    ├── customer-details.xlsx
-├── Clean Data/
-    ├── bank\_clean.xlsx
-    ├── clientes\_clean.xlsx
-    ├── df\_bank\_clientes.xlsx
-├── Notebooks/
-    ├── EDA\_Bank\_Marketing.ipynb
-├── README.md
-├── Informe Proyecto 4 - Eda con Python.pdf
-
-
 Carpeta Raw Data: Incluye los archivos originales proporcionados para la realización del análisis.
 
 Clean Data: Contiene los datasets resultantes tras las tareas de limpieza, transformación e integración de datos.
